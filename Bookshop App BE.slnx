@@ -1,0 +1,5 @@
+<Solution>
+  <Project Path="BookshopApp.Api/BookshopApp.Api.csproj" />
+  <Project Path="BookshopApp.Repository/BookshopApp.Repository.csproj" Id="65502aa9-849b-40be-bdcb-5163b3ac2595" />
+  <Project Path="BookshopApp.Services/BookshopApp.Services.csproj" Id="f137ffde-0707-46f4-a085-ec7577ece245" />
+</Solution>
